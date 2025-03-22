@@ -1,7 +1,7 @@
 
 # Back End Developer
 
-This is my protfolio as Data analyst
+This is my protfolio as Back End Developer
 
 
 
